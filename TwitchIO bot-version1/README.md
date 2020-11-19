@@ -1,2 +1,5 @@
 # ChatBot
-a small change is made
+
+A customized chatbot for any twitch channel. 
+
+To run:python Run.py
